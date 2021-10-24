@@ -1,1 +1,2 @@
 Dog is a dangerous animal
+Fox is a cleaver animal
